@@ -53,3 +53,7 @@ To deliver an interactive visual tool that:
 * **Resource Optimization**: Identify under-resourced departments and reallocate staff or beds based on patient load.
 * **Preventative Care**: Target specific high-risk age groups for preventative health campaigns.
 * **Operational Efficiency**: Streamlines the data-to-insight process for faster hospital reporting.
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview]()
