@@ -56,4 +56,4 @@ To deliver an interactive visual tool that:
 
 ### 6.	Screenshots / Demos
 Show what the dashboard looks like.
-Example: ![Dashboard Preview]()
+Example: ![Dashboard Preview](https://github.com/Gaurav7127/Hospital-Analysis-PowerBI/blob/main/hospital.png)
